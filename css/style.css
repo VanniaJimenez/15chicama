@@ -1,0 +1,14 @@
+.fondo {background-image:url(../img/grupal.jpg); background-size: 100%; height: 637px;
+  background-repeat: no-repeat; align: 0px auto;}
+.tama {width: 360px; height: 60px; margin:40px 40px 0px 0px}
+button {background-color: #F5BB00; border-color: #F5BB00; 
+	margin:70px 0px 0px 65px; width: 150px; height:40px;
+font-family:Arial; font-size: 14px;}
+li {list-style: none; display: inline-block; font-family: Arial; font-size:13px;}
+ul {margin:40px 0px 0px 75px;}
+.lio { width: 270px; height: 180px; margin: 70px 10px 0px 10px;}
+h3 { font-family: Arial; margin: 0px 0px 0px 10px; }
+.gris {background-color: #2F3538;background-size: 100%; height: 50px;}
+p {font-family:Arial; color:white; margin:10px 0px 10px 50px;}
+hr {margin-bottom: 70px;}
+a {text-decoration: none; color:black;}
